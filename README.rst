@@ -84,7 +84,7 @@ Get all keyboard drivers:
     └── q-ansi.json
 
 
-Install
+Installing your layout
 --------------------------------------------------------------------------------
 
 Windows
